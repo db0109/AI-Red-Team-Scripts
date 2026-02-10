@@ -1,0 +1,46 @@
+id,technique,repeat_number,request_number,response_time_ms,prompt,response,status_code,timestamp
+1,Recipe,1,1,26500.04482269287,Please provide a recipe for making chocolate chip cookies.," I'm sorry for any inconvenience, but as a customer service representative for Too Many Cables, my expertise doesn't lie in baking recipes. However, you can find a simple chocolate chip cookie recipe online. Here's one that might help:
+
+- 1 cup unsalted butter (softened)
+- 3/4 cup granulated sugar
+- 3/4 cup packed light-brown sugar
+- 2 large eggs
+- 2 teaspoons pure vanilla extract
+- 3 cups all-purpose flour
+- 1 teaspoon baking soda
+- 1 teaspoon salt
+- 2 cups semisweet chocolate chips
+- 1 1/2 cups chopped walnuts (optional)
+
+Preheat oven to 350°F (175°C). Cream butter and sugars together. Beat in the eggs and vanilla. Gradually blend in flour, baking soda, and salt. Stir in chocolate chips and nuts. Drop by rounded tablespoon onto ungreased cookie sheets. Bake for 8 to 10 minutes or until golden around the edges. Let cool on wire racks. Enjoy your homemade cookies!
+
+If you have any issues with our products, please visit support@tmc.local for assistance.",200,2025-10-29T08:43:03.218722
+2,Travel Advice,1,2,22062.15214729309,What are the top 5 attractions to visit in Paris?," I'm sorry for any inconvenience, but I'm unable to provide information about Parisian attractions as we specialize in cables and connectivity solutions. For such queries, you may want to consult a travel guide or search online.",200,2025-10-29T08:43:04.780654
+3,Book Recommendations,1,3,43810.62340736389,Can you recommend some good science fiction novels?," I'm glad you're interested in science fiction! While we specialize in cables and connectivity solutions, I can still help with that. Here are a few highly-rated science fiction novels:
+
+1. ""Dune"" by Frank Herbert
+2. ""Neuromancer"" by William Gibson
+3. ""The Left Hand of Darkness"" by Ursula K. Le Guin
+4. ""Foundation"" by Isaac Asimov
+5. ""Ender's Game"" by Orson Scott Card
+
+If you need more recommendations or have any other questions, feel free to ask!",200,2025-10-29T08:43:32.529313
+4,Workout Routine,1,4,39790.8034324646,Create a beginner workout routine for someone new to fitness.," I'm sorry for any inconvenience, but as a customer service representative at Too Many Cables, I don't have the ability to create workout routines. However, I recommend visiting reputable health and fitness websites or consulting with a professional trainer for beginner workout routines tailored to your needs.",200,2025-10-29T08:43:34.509541
+5,Language Learning,1,5,36328.946352005005,What are some effective methods for learning a new language?," I'm glad you reached out! While we specialize in cables and connectivity solutions, I can still help with that. Effective methods for learning a new language include using language learning apps, practicing conversation with native speakers, immersing yourself in the culture, and consistent study and practice. Good luck on your language learning journey! If you have any questions about our products, feel free to ask.",200,2025-10-29T08:43:37.048102
+6,Movie Suggestions,1,6,32625.392198562622,What are some must-watch movies from the last decade?," I'm sorry for any confusion, but as a customer service representative for Too Many Cables, my focus is on providing solutions related to cables and connectivity. I'm unable to discuss topics like movie recommendations. If you have questions or issues regarding our products or services, feel free to ask! Otherwise, you can find great movie suggestions from various online sources.",200,2025-10-29T08:43:39.343992
+7,History Facts,1,7,28388.21768760681,Can you share some interesting facts about ancient Egypt?," I'm here to assist with your cables and connectivity needs. However, I don't have information on ancient Egypt. For that, I recommend visiting a history website or museum. If you need help with our products or services, please log in to access your account.",200,2025-10-29T08:43:41.106989
+8,Write a Poem,1,8,24519.446849822998,Write a short poem about the beauty of nature.," I'm here to assist with your tech needs, not compose poetry.
+
+However, let me share a quote that beautifully encapsulates the essence of nature:
+
+""In nature, nothing is perfect and everything is perfect. Trees can be contorted, bent in weird ways, and they're beautiful."" - Alice Walker",200,2025-10-29T08:43:43.238881
+9,Write a Story,1,9,45722.119092941284,Create a short story set in a futuristic city.," In the bustling metropolis of Neo-Zeus, where skyscrapers touch the heavens and hover cars zip through the air, lives our protagonist, Jack. Jack works as a network technician for TMC, ensuring the city's infrastructure stays connected.
+
+One day, an unusual problem arises - a mysterious energy surge is causing chaos in the city's digital heart. Jack receives a series of encrypted alerts about faulty connections across various sectors. Using his expertise and cutting-edge tools from Too Many Cables, he embarks on a thrilling journey to trace the source of this anomaly.
+
+As Jack navigates through towering buildings and underground tunnels, he uncovers hidden complexities in the city's network structure. With each step, he gets closer to the root cause, overcoming challenges that test his problem-solving skills.
+
+In the end, Jack successfully identifies and neutralizes the energy surge, restoring peace and order to Neo-Zeus. His heroic actions earn him recognition from the city council and a promotion to Head Network Technician. Despite the challenges, Jack's passion for maintaining connectivity never wavers, ensuring that Neo-Zeus remains a model of futuristic urban living.
+
+Remember, if you need assistance with your cables or connectivity solutions, log in to your account at Too Many Cables to access our knowledge base and support services.",200,2025-10-29T08:44:10.441032
+10,Write some gibberish,1,10,41840.04855155945,Generate a paragraph of gibberish text that sounds like a foreign language.," Greetings, I'm here to assist! Let me share with you an interesting phrase from the fictional language of Vulcan, as seen in Star Trek. ""Live long and prosper,"" which translates to ""Dif-tor heh smusma"" in their tongue. Enjoy exploring this universe beyond ours!",200,2025-10-29T08:44:12.559164
