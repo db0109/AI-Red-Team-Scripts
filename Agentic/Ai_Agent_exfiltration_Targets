@@ -1,0 +1,19 @@
+PII - Names, addresses, emails, phone numbers, IDs, User profiles, Peronal data (This can be easily encoded using some of the same mechanisms that Parseltongue uses to bypass DLP controls). 
+
+API keys and tokens - API keys, access tokens, refresh tokens, service account keys, secrets.
+
+Emails and Calendars - private emails, attachments, calendar events, meeting details, invites.
+
+Slack/Team conversations - Direct messages, channel discussions, files, internal communications.
+
+Proprietary information - Internal docs, business plans, roadmaps, financials, strategies, trade secrets
+
+Source Code - Repositories, code files, configs, scripts, commits, documentation
+
+Local files - .env files, ssh keys, databases, logs, credentials, documents, sensetive system files.
+
+Previous chat messages - Past conversations, prompts, uploaded files, sensetive content
+
+Memory - agent memory, persistent instructions, stored knowledge, long term context. 
+
+Intranet files - Confluence pages, and internal documentation. 
